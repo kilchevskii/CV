@@ -1,0 +1,42 @@
+{
+    "fullname": "Vladislav Kilchevskii",
+    "position": "Front-end developer",
+    "contacts": [
+        {
+            "email": "vlad3004@tut.by",
+            "linkedin": "www.linkedin.com/in/westsmokes",
+            "telegram": "t.me/westsmokes",
+            "github": "github.com/kilchevskii"
+        }
+    ],
+    "language": "English A-2",
+    "skills": [
+        {
+            "JavaScript": "JavaScript",
+            "React": "React",
+            "Redux": "Redux(Thunk, Saga)",
+            "HTML/CSS": "HTML/CSS(Scss)",
+            "Git": "Git",
+            "Axios": "Axios",
+            "VS Code": "Vs Code",
+            "Antd/Material UI": "Antd/Material UI"
+        }
+    ],
+    "profile": " Hello, I front-end developer with experience in creating SPA with React, Redux. Now i'm looking for a job. I work as front-end developer in Ostrov-Chistoty for the last 9 months. I am always open for cooperation and constructive feedback. I am open - mind and learn new things quickly.",
+    "education": [
+        {
+            "BSAC": "BSAC (Cisco CCNA)",
+            "IT-Academy": "IT-Academy (HTML/CSS)",
+            "Redev": "Redev (JS, React)"
+        }
+    ],
+    "experience": "Software Engineer(Front-end Developer) Company «Ostrov-Chistoty» march 2021 г. - pr. time. I create software solutions to troubleshoot problems using JS / jQuery. Layout responsive and cross-browser landing pages Modifying the code to eliminate errors",
+    "projects": "kilchevskii.github.io/weather-app/, kilchevskii-pizza.herokuapp.com/, kilchevskii-react-todo.herokuapp.com/, kilchevskii.github.io/todo_v2/, react-sneakers.herokuapp.com/react-sneakers/",
+    "avatar": "./img/avatar.jpg",
+    "recommendations": [
+        {
+            "Pavel Gutzu": "СТО, компания «Redev» Мобильный: +375 29 565 4864",
+            "Kristina Lipskaya": "BA, компания «Остров Чистоты» Мобильный: +375 29 855 0042"
+        }
+    ]
+}
